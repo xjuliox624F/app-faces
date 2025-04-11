@@ -22,7 +22,7 @@ data = pathlib.Path(directory)
 
 labels = []
 images = []
-listPersons = ['Angel', 'Arkel', 'gabriel', 'Guadalupe','julio' ]
+listPersons = ['Angel', 'Arkel', 'gabriel', 'Guadalupe','JULIO' ]
 
 size = 64,64
 print('folders')
